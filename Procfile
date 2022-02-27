@@ -1,1 +1,1 @@
-worker:python AnkurProject.py
+worker: python AnkurProject.py
